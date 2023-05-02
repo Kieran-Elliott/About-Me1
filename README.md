@@ -22,7 +22,7 @@ Validation
 I was able to run my HTML through a W3C validator but low and behold I got hit with a lot of errors my first few goes! I can happily say I've brought those errors down to just a few, however I just couldn't understand the fix behind them which is why I left them in as the code still works it's probably just not as clean.
 
 Thankfully though my CSS went throught the validator with flying colors after a lot of runs! But it's now good!
-
+ /workspace/Cork-Tennis-2.1/images/W3C Error.PNG
 (Please see W3C Error in images/W3C Error.PNG)
 
 Changes
