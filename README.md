@@ -34,3 +34,8 @@ Clean up the contrast to the site to make it feel more crisp
 I would of also liked to change the website completely and go down a different path where it could be a business site.
 
 Website
+
+Please see below Images of my Website
+
+![Capture](https://user-images.githubusercontent.com/126394036/235791106-f85f435f-0032-4d41-8174-e1190b5a3f0a.PNG)
+
