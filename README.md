@@ -43,3 +43,10 @@ Please see below Images of my Website
 ![Capture 3](https://user-images.githubusercontent.com/126394036/235791745-c56d5901-3f0c-4a7c-8fc3-8d3f3d944ffb.PNG)
 
 
+Credits:
+
+I would like to credit the following;
+
+Youtube 
+W3C Schools
+Rory- 3rd year Student in Softwarde Development for the extra bit of tutoring
